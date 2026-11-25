@@ -1,0 +1,63 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f2f7fa;
+}
+
+h1 {
+  background: #087e8b;
+  color: white;
+  padding: 25px;
+  text-align: center;
+  margin: 0;
+}
+
+nav {
+  background: #064c5b;
+  padding: 18px;
+  text-align: center;
+}
+
+nav button {
+  background: none;
+  color: white;
+  border: none;
+  margin: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+nav button:hover {
+  color: #00e5ff;
+}
+
+section {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+section h2 {
+  color: #087e8b;
+}
+
+section p {
+  color: #555;
+  font-size: 18px;
+}
+
+input, select {
+  display: block;
+  padding: 12px;
+  margin: 15px auto;
+  width: 250px;
+}
+
+section button {
+  background: #087e8b;
+  color: white;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
